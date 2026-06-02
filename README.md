@@ -2,6 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/luiz-ishio-dev/)](https://www.linkedin.com/in/luiz-ishio-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trainningjava)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trainningjava&color=blue" alt="Profile views" /> </p>
+
 <!--
 **trainningjava/trainningjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
