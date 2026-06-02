@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MyProfile's github stats](https://github-readme-stats.vercel.app/api?username=trainningjava&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trainningjava&layout=compact&hide=matlab,css,swift,html,jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)## 
+##
+<p align="center">
+<a href="https://github.com/Rodrigo-Sarmento">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trainningjava&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trainningjava&layout=compact&hide=matlab,css,swift,html,jupyter%20notebook&langs_count=8)](https://github.com/trainningjava/github-readme-stats"/>
+</a>
+</p>
