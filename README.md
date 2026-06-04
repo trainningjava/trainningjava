@@ -26,11 +26,16 @@ Here are some ideas to get you started:
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title = "Java"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" title = "Angular"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title = "Spring"/></code>
-<code><img width="40px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title = "OracleDB"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" title = "OracleDB"/></code>
+
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title = "MongoDB"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title = "PostgreSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title = "Docker"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" title = "WSL (Windows Subsystem for Linux)"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title = "Shell Script"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" title = "Ubuntu"/></code>
+
 
 ##
 <p align="center">
