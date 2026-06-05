@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
 </p>
 <p align="left"> 
-#<code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" title = "Ubuntu"/></code>
+### <code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" title = "Ubuntu"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" title = "Ubuntu"/></code>
 </p>
 
