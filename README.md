@@ -21,21 +21,28 @@ Here are some ideas to get you started:
 -->
 
 ### <img height="30" src="https://user-images.githubusercontent.com/77757301/126855288-0264f667-f8be-4c1d-9fe0-d0049d751dba.gif"> Languages and tools: 
+<p align="left"> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title = "GitHub"/></code>
-<code><img width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title = "Java"/></code>
-<code><img width="40px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" title = "Angular"/></code>
-<code><img width="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title = "Spring"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" title = "OracleDB"/></code>
-
-<code><img width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title = "MongoDB"/></code>
-<code><img width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title = "PostgreSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title = "Docker"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" title = "WSL (Windows Subsystem for Linux)"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title = "Shell Script"/></code>
+</p>
+<p align="left"> 
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title = "Java"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" title = "Angular"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title = "Spring"/></code>
+</p>
+<p align="left"> 
+<code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" title = "OracleDB"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title = "MongoDB"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title = "PostgreSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
+</p>
+<p align="left"> 
+#<code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" title = "Ubuntu"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" title = "Ubuntu"/></code>
-
+</p>
 
 ##
 <p align="center">
