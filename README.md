@@ -11,19 +11,19 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor de software focado no ecossistema **Java** e ferramentas **Cloud**. Tenho sólida experiência no desenvolvimento de novas funcionalidades, sustentação de sistemas de grande porte e otimização de ambientes corporativos.
+Sou **Desenvolvedor Java** com foco na construção de APIs e microsserviços escaláveis, utilizando o ecossistema **Spring** e soluções modernas de infraestrutura. Tenho experiência prática no ciclo completo de desenvolvimento: desde a implementação de novas funcionalidades até a sustentação, otimização de queries e automação de rotinas locais.
 
-- 🚀 Especialista no ecossistema **Spring (Boot, Cloud)** para a construção de arquiteturas escaláveis e resilientes.
-- ⚙️ Entusiasta de automação, Shell Script e otimização de workflows locais usando **WSL** e containers.
-- 🛠️ Experiência na modelagem e manutenção de bases de dados relacionais e não-relacionais.
-- 💼 Focado em entregar código limpo, documentado e soluções eficientes de backend.
+- 🚀 Domínio em **Java** e **Spring Boot / Spring Cloud** para o desenvolvimento de soluções backend robustas.
+- ⚙️ Experiência em otimização de ambientes de desenvolvimento utilizando **WSL**, containers com **Docker** e automação via **Shell Script**.
+- 🗄️ Atuação consistente na modelagem, manutenção e tunelamento de bases de dados relacionais e NoSQL.
+- 💼 Focado em escrever código limpo, testável e em colaborar ativamente com o time para entregas ágeis e eficientes.
 
 ---
 
 ### 🛠️ Competências Técnicas
 
 #### ☕ Backend & Frameworks
-*Foco no desenvolvimento de APIs robustas, microsserviços e componentização no ecossistema Java e Web.*
+*Construção de componentes reaproveitáveis, APIs RESTful resilientes e arquitetura baseada no ecossistema Java.*
 <p align="left">
   <img width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java"/>&nbsp;
   <img width="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring Boot / Cloud" alt="Spring"/>&nbsp;
@@ -31,7 +31,7 @@ Sou um desenvolvedor de software focado no ecossistema **Java** e ferramentas **
 </p>
 
 #### 🗄️ Databases & Soluções de Armazenamento
-*Experiência com modelagem de dados, queries complexas, performance e administração de diferentes ecossistemas de bancos de dados.*
+*Modelagem de dados, escrita de queries performáticas e integração de sistemas com múltiplos bancos de dados.*
 <p align="left">
   <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" title="OracleDB" alt="Oracle"/>&nbsp;
   <img width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
@@ -40,7 +40,7 @@ Sou um desenvolvedor de software focado no ecossistema **Java** e ferramentas **
 </p>
 
 #### 🐳 DevOps, Infraestrutura & Ambiente de Desenvolvimento
-*Uso diário de ferramentas para conteinerização, automação de scripts e virtualização de ambientes operacionais para ganho de produtividade.*
+*Agilidade no dia a dia através de ambientes isolados em containers, virtualização e controle de versão.*
 <p align="left">
   <img width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" alt="Docker"/>&nbsp;
   <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" title="WSL (Windows Subsystem for Linux)" alt="WSL"/>&nbsp;
